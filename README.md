@@ -42,9 +42,9 @@ write, find a bug, ragequit, and repeat the pattern.
 
 <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark"/>
 
-> windows  
-> dual booting linux distros  
-> experimenting with different environments
+windows  
+dual booting linux distros  
+experimenting with different environments
 
 </div>
 
@@ -54,11 +54,11 @@ write, find a bug, ragequit, and repeat the pattern.
 
 ## currently
 
-> backend experiments  
-> automation  
-> api integrations  
-> bot systems  
-> optimization
+backend experiments  
+automation  
+api integrations  
+bot systems  
+optimization
 
 </div>
 
@@ -68,10 +68,10 @@ write, find a bug, ragequit, and repeat the pattern.
 
 ## quick info
 
-- started coding around 10/11  
-- self taught  
-- mostly learning through building  
-- breaking things to understand them
+started coding around 10/11  
+self taught  
+mostly learning through building  
+breaking things to understand them
 
 </div>
 <img src="https://komarev.com/ghpvc/?username=3x3c4t&style=for-the-badge&color=7c3aed"/>
