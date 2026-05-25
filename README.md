@@ -7,8 +7,7 @@
 <h1>3x3c4t</h1>
 
 <pre>
-code since ~10/11
-building things, breaking things, learning fast
+write, find a bug, ragequit, and repeat the pattern.
 </pre>
 
 <br>
