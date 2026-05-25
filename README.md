@@ -17,11 +17,6 @@ write, find a bug, ragequit, and repeat the pattern.
 <img src="https://img.shields.io/badge/github-profile-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
-
-
 <img src="https://komarev.com/ghpvc/?username=3x3c4t&style=for-the-badge&color=7c3aed"/>
 
 
