@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://i.pinimg.com/736x/f6/59/7d/f6597dfe08f3d20fc043dce831a922e0.jpg"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=3x3c4t&style=for-the-badge&color=7c3aed"/>
+<img width="100%" src="https://i.pinimg.com/1200x/4d/02/b9/4d02b9750b0016291cb2bb91f072eb47.jpg"/>
 
 <br><br>
 
@@ -73,5 +69,9 @@ building weird things and making them somehow work
 <a href="https://github.com/3x3c4t">
 <img src="https://img.shields.io/badge/github-3x3c4t-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=3x3c4t&style=for-the-badge&color=7c3aed"/>
 
 </div>
