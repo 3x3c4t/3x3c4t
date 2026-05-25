@@ -4,9 +4,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=3x3c4t;code+since+~10%2F11;building+things;breaking+things;learning+fast"/>
+<h1>3x3c4t</h1>
 
-<br><br>
+<pre>
+code since ~10/11
+building things, breaking things, learning fast
+</pre>
+
+<br>
 
 <a href="mailto:getintouch@exe.cat">
 <img src="https://img.shields.io/badge/email-contact-2563eb?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -71,14 +76,6 @@ started coding around 10/11
 self taught  
 mostly learning through building  
 breaking things to understand them
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=build%20break%20understand%20rebuild"/>
 
 </div>
 <img src="https://komarev.com/ghpvc/?username=3x3c4t&style=for-the-badge&color=7c3aed"/>
