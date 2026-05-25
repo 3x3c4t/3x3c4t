@@ -1,8 +1,6 @@
-<img width="100%" src="https://i.pinimg.com/1200x/ae/88/42/ae8842fc94e5c4fc9da56282e63f6288.jpg"/>
+<img width="100%" src="https://i.pinimg.com/1200x/d3/26/6a/d3266a17412f1711e4b7950e4146da66.jpg"/>
 
 <div align="center">
-
-# 3x3c4t
 
 <br>
 <pre>
