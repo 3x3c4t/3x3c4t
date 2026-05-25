@@ -3,9 +3,6 @@
 <img width="100%" src="https://i.pinimg.com/1200x/eb/e1/ca/ebe1ca358066ee28aa643d58ee1f31e5.jpg"/>
 
 <br>
-
-<h1>3x3c4t</h1>
-
 <pre>
 write, find a bug, ragequit, and repeat the pattern.
 </pre>
