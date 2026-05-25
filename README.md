@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://i.pinimg.com/1200x/eb/e1/ca/ebe1ca358066ee28aa643d58ee1f31e5.jpg"/>
-
 <br>
 <pre>
 write, find a bug, ragequit, and repeat the pattern.
@@ -19,52 +17,10 @@ write, find a bug, ragequit, and repeat the pattern.
 <img src="https://img.shields.io/badge/github-profile-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
-<div align="center">
-
-## stack
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cs,nodejs,git&theme=dark"/>
-
-`python` • `javascript` • `webdev` • `c#`  
-`discord bots` • `telegram bots` • `server-side`
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
-
-<div align="center">
-
-## environment
-
-<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark"/>
-
-windows  
-dual booting linux distros  
-experimenting with different environments
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
-
-<div align="center">
-
-## currently
-
-backend experiments  
-automation  
-api integrations  
-bot systems  
-optimization
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
-
-<div align="center">
 
 ## quick info
 
@@ -73,7 +29,8 @@ self taught
 mostly learning through building  
 breaking things to understand them
 
-</div>
+
 <img src="https://komarev.com/ghpvc/?username=3x3c4t&style=for-the-badge&color=7c3aed"/>
+
 
 </div>
