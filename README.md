@@ -22,14 +22,6 @@ write, find a bug, ragequit, and repeat the pattern.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
 
-## quick info
-
-started coding around 10/11  
-self taught  
-mostly learning through building  
-breaking things to understand them
-
-
 <img src="https://komarev.com/ghpvc/?username=3x3c4t&style=for-the-badge&color=7c3aed"/>
 
 
