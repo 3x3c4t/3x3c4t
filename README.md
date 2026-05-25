@@ -1,4 +1,8 @@
+<img width="100%" src="https://i.pinimg.com/1200x/ae/88/42/ae8842fc94e5c4fc9da56282e63f6288.jpg"/>
+
 <div align="center">
+
+# 3x3c4t
 
 <br>
 <pre>
@@ -18,6 +22,5 @@ write, find a bug, ragequit, and repeat the pattern.
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=3x3c4t&style=for-the-badge&color=7c3aed"/>
-
 
 </div>
