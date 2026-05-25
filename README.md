@@ -1,25 +1,19 @@
 <div align="center">
 
-<img width="100%" height="320" src="https://i.pinimg.com/1200x/eb/e1/ca/ebe1ca358066ee28aa643d58ee1f31e5.jpg"/>
+<img width="100%" src="https://i.pinimg.com/1200x/eb/e1/ca/ebe1ca358066ee28aa643d58ee1f31e5.jpg"/>
 
-<br><br>
-
-```txt
+<pre>
 3x3c4t
 code since ~10/11
 building things, breaking things, learning fast
-```
-
-<br>
+</pre>
 
 <a href="mailto:getintouch@exe.cat">
 <img src="https://img.shields.io/badge/email-contact-3b82f6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://discord.com/users/1177362819507830918">
 <img src="https://img.shields.io/badge/discord-connect-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-
 <a href="https://github.com/3x3c4t">
 <img src="https://img.shields.io/badge/github-profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -30,14 +24,15 @@ building things, breaking things, learning fast
 
 ### stack
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,cs,nodejs,git,linux,windows"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cs,nodejs,git"/>
 
 - python  
 - javascript  
-- web development  
+- webdev  
 - c#  
-- discord / telegram bots  
-- server-side stuff
+- discord bots  
+- telegram bots  
+- server-side
 
 ---
 
@@ -45,28 +40,28 @@ building things, breaking things, learning fast
 
 <img src="https://skillicons.dev/icons?i=windows,linux"/>
 
-- currently on windows  
-- often dual booting random linux distros  
-- testing, breaking, rebuilding
+- windows  
+- dual booting linux distros  
+- experimenting with different environments
 
 ---
 
-### currently working on
+### currently
 
 - backend experiments  
-- automation scripts  
+- automation  
 - api integrations  
-- bot architecture  
-- performance optimization
+- bot systems  
+- optimization
 
 ---
 
 ### quick info
 
 - started coding around 10/11  
-- self-taught through building random projects  
-- learning by doing  
-- always experimenting with new tools
+- self taught  
+- mostly learning through building  
+- breaking things to understand them
 
 ---
 
@@ -78,9 +73,6 @@ building things, breaking things, learning fast
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=3x3c4t&style=for-the-badge&color=7c3aed"/>
-
-</div>
 <img src="https://komarev.com/ghpvc/?username=3x3c4t&style=for-the-badge&color=7c3aed"/>
 
 </div>
