@@ -67,7 +67,6 @@ building things, breaking things, learning fast
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=3x3c4t&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3x3c4t&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
